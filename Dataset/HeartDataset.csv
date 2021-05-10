@@ -1,0 +1,300 @@
+age,sex,resting blood pressure,serum cholesterol,fasting blood sugar,maximum heart rate achieved,chest pain type,resting electrocardiographic results,exercise induced angina,ST depression induced by exercise relative to rest,slope of the highest point of ST wave,number of major vessels colored by fluoroscopy,thal,Diagnosis
+70,male,130,322,no,109,asymptomatic,left ventricular hypertrophy,no,2.4,flat,3,normal,1
+67,female,115,564,no,160,non-anginal,left ventricular hypertrophy,no,1.6,flat,0,reversible defect,0
+57,male,124,261,no,141,atypical angina,normal,no,0.3,up sloping,0,reversible defect,1
+64,male,128,263,no,105,asymptomatic,normal,yes,0.2,flat,1,reversible defect,0
+74,female,120,269,no,121,atypical angina,left ventricular hypertrophy,yes,0.2,,1,normal,0
+65,male,120,177,no,140,asymptomatic,normal,no,0.4,up sloping,0,reversible defect,0
+56,male,130,256,yes,142,non-anginal,left ventricular hypertrophy,yes,0.6,flat,1,fixed,1
+59,male,110,239,no,142,asymptomatic,left ventricular hypertrophy,yes,1.2,flat,1,reversible defect,1
+60,male,140,293,no,170,asymptomatic,left ventricular hypertrophy,no,1.2,flat,2,reversible defect,1
+63,female,150,407,no,154,asymptomatic,left ventricular hypertrophy,no,4,flat,3,reversible defect,1
+59,male,135,234,no,161,asymptomatic,normal,no,0.5,flat,0,reversible defect,0
+53,male,142,226,no,111,asymptomatic,left ventricular hypertrophy,yes,0,up sloping,0,reversible defect,0
+44,male,140,235,no,180,non-anginal,left ventricular hypertrophy,no,0,up sloping,0,normal,0
+61,male,134,234,no,145,typical angina,normal,no,2.6,flat,2,normal,1
+57,female,128,303,no,159,asymptomatic,left ventricular hypertrophy,no,0,up sloping,1,normal,0
+71,female,112,149,no,125,asymptomatic,normal,no,1.6,flat,0,normal,0
+46,male,140,311,no,120,asymptomatic,normal,yes,1.8,flat,2,reversible defect,1
+53,male,140,203,yes,155,asymptomatic,left ventricular hypertrophy,yes,3.1,down sloping,0,reversible defect,1
+64,male,110,211,no,144,typical angina,left ventricular hypertrophy,yes,1.8,flat,0,normal,0
+40,male,140,199,no,178,typical angina,normal,yes,1.4,up sloping,0,reversible defect,0
+67,male,120,229,no,129,asymptomatic,left ventricular hypertrophy,yes,2.6,flat,2,reversible defect,1
+48,male,130,245,no,180,atypical angina,left ventricular hypertrophy,no,0.2,flat,0,normal,0
+43,male,115,303,no,181,asymptomatic,normal,no,1.2,flat,0,normal,0
+47,male,112,204,no,143,asymptomatic,normal,no,0.1,up sloping,0,normal,0
+54,female,132,288,yes,159,atypical angina,left ventricular hypertrophy,yes,0,up sloping,1,normal,0
+48,female,130,275,no,139,non-anginal,normal,no,0.2,up sloping,0,normal,0
+46,female,138,243,no,152,asymptomatic,left ventricular hypertrophy,yes,0,flat,0,normal,0
+51,female,120,295,no,157,non-anginal,left ventricular hypertrophy,no,0.6,up sloping,0,normal,0
+58,male,112,230,no,165,non-anginal,left ventricular hypertrophy,no,2.5,flat,1,reversible defect,1
+71,female,110,265,yes,130,non-anginal,left ventricular hypertrophy,no,0,up sloping,1,normal,0
+57,male,128,229,no,150,non-anginal,left ventricular hypertrophy,no,0.4,flat,1,reversible defect,1
+66,male,160,228,no,138,asymptomatic,left ventricular hypertrophy,no,2.3,up sloping,0,fixed,0
+37,female,120,215,no,170,non-anginal,normal,no,0,up sloping,0,normal,0
+59,male,170,326,no,140,asymptomatic,left ventricular hypertrophy,yes,3.4,down sloping,0,reversible defect,1
+50,male,144,200,no,126,asymptomatic,left ventricular hypertrophy,yes,0.9,flat,0,reversible defect,1
+48,male,130,256,yes,150,asymptomatic,left ventricular hypertrophy,yes,0,up sloping,2,reversible defect,1
+61,male,140,207,no,138,asymptomatic,left ventricular hypertrophy,yes,1.9,up sloping,1,reversible defect,1
+59,male,160,273,no,125,typical angina,left ventricular hypertrophy,no,0,up sloping,0,normal,1
+42,male,130,180,no,150,non-anginal,normal,no,0,up sloping,0,normal,0
+48,male,122,222,no,186,asymptomatic,left ventricular hypertrophy,no,0,up sloping,0,normal,0
+40,male,152,223,no,181,asymptomatic,normal,no,0,up sloping,0,reversible defect,1
+62,female,124,209,no,163,asymptomatic,normal,no,0,up sloping,0,normal,0
+44,male,130,233,no,179,non-anginal,normal,yes,0.4,up sloping,0,normal,0
+46,male,101,197,yes,156,atypical angina,normal,no,0,up sloping,0,reversible defect,0
+59,male,126,218,yes,134,non-anginal,normal,no,2.2,flat,1,fixed,1
+58,male,140,211,yes,165,non-anginal,left ventricular hypertrophy,no,0,up sloping,0,normal,0
+49,male,118,149,no,126,non-anginal,left ventricular hypertrophy,no,0.8,up sloping,3,normal,1
+44,male,110,197,no,177,asymptomatic,left ventricular hypertrophy,no,0,up sloping,1,normal,1
+66,male,160,246,no,120,atypical angina,normal,yes,0,flat,3,fixed,1
+65,female,150,225,no,114,asymptomatic,left ventricular hypertrophy,no,1,flat,3,reversible defect,1
+42,male,136,315,no,125,asymptomatic,normal,yes,1.8,flat,0,fixed,1
+52,male,128,205,yes,184,atypical angina,normal,no,0,up sloping,0,normal,0
+65,female,140,417,yes,157,non-anginal,left ventricular hypertrophy,no,0.8,up sloping,1,normal,0
+63,female,140,195,no,179,atypical angina,normal,no,0,up sloping,2,normal,0
+45,female,130,234,no,175,atypical angina,left ventricular hypertrophy,no,0.6,flat,0,normal,0
+41,female,105,198,no,168,atypical angina,normal,no,0,up sloping,1,normal,0
+61,male,138,166,no,125,asymptomatic,left ventricular hypertrophy,yes,3.6,flat,1,normal,1
+60,female,120,178,yes,96,non-anginal,normal,no,0,up sloping,0,normal,0
+59,female,174,249,no,143,asymptomatic,normal,yes,0,flat,0,normal,1
+62,male,120,281,no,103,atypical angina,left ventricular hypertrophy,no,1.4,flat,1,reversible defect,1
+57,male,150,126,yes,173,non-anginal,normal,no,0.2,up sloping,1,reversible defect,0
+51,female,130,305,no,142,asymptomatic,normal,yes,1.2,flat,0,reversible defect,1
+44,male,120,226,no,169,non-anginal,normal,no,0,up sloping,0,normal,0
+60,female,150,240,no,171,typical angina,normal,no,0.9,up sloping,0,normal,0
+63,male,145,233,yes,150,typical angina,left ventricular hypertrophy,no,2.3,down sloping,0,fixed,0
+57,male,150,276,no,112,asymptomatic,left ventricular hypertrophy,yes,0.6,flat,1,fixed,1
+51,male,140,261,no,186,asymptomatic,left ventricular hypertrophy,yes,0,up sloping,0,normal,0
+58,female,136,319,yes,152,atypical angina,left ventricular hypertrophy,no,0,up sloping,2,normal,1
+44,female,118,242,no,149,non-anginal,normal,no,0.3,flat,1,normal,0
+47,male,108,243,no,152,non-anginal,normal,no,0,up sloping,0,normal,1
+61,male,120,260,no,140,asymptomatic,normal,yes,3.6,flat,1,reversible defect,1
+57,female,120,354,no,163,asymptomatic,normal,yes,0.6,up sloping,0,normal,0
+70,male,156,245,no,143,atypical angina,left ventricular hypertrophy,no,0,up sloping,0,normal,0
+76,female,140,197,no,116,non-anginal,ST-T wave,no,1.1,flat,0,normal,0
+67,female,106,223,no,142,asymptomatic,normal,no,0.3,up sloping,2,normal,0
+45,male,142,309,no,147,asymptomatic,left ventricular hypertrophy,yes,0,flat,3,reversible defect,1
+45,male,104,208,no,148,asymptomatic,left ventricular hypertrophy,yes,3,flat,0,normal,0
+39,female,94,199,no,179,non-anginal,normal,no,0,up sloping,0,normal,0
+42,female,120,209,no,173,non-anginal,normal,no,0,flat,0,normal,0
+56,male,120,236,no,178,atypical angina,normal,no,0.8,up sloping,0,normal,0
+58,male,146,218,no,105,asymptomatic,normal,no,2,flat,1,reversible defect,1
+35,male,120,198,no,130,asymptomatic,normal,yes,1.6,flat,0,reversible defect,1
+58,male,150,270,no,111,asymptomatic,left ventricular hypertrophy,yes,0.8,up sloping,0,reversible defect,1
+41,male,130,214,no,168,non-anginal,left ventricular hypertrophy,no,2,flat,0,normal,0
+57,male,110,201,no,126,asymptomatic,normal,yes,1.5,flat,0,fixed,0
+42,male,148,244,no,178,typical angina,left ventricular hypertrophy,no,0.8,up sloping,2,normal,0
+62,male,128,208,yes,140,atypical angina,left ventricular hypertrophy,no,0,up sloping,0,normal,0
+59,male,178,270,no,145,typical angina,left ventricular hypertrophy,no,4.2,down sloping,0,reversible defect,0
+41,female,126,306,no,163,atypical angina,normal,no,0,up sloping,0,normal,0
+50,male,150,243,no,128,asymptomatic,left ventricular hypertrophy,no,2.6,flat,0,reversible defect,1
+59,male,140,221,no,164,atypical angina,normal,yes,0,up sloping,0,normal,0
+61,female,130,330,no,169,asymptomatic,left ventricular hypertrophy,no,0,up sloping,0,normal,1
+54,male,124,266,no,109,asymptomatic,left ventricular hypertrophy,yes,2.2,flat,1,reversible defect,1
+54,male,110,206,no,108,asymptomatic,left ventricular hypertrophy,yes,0,flat,1,normal,1
+52,male,125,212,no,168,asymptomatic,normal,no,1,up sloping,2,reversible defect,1
+47,male,110,275,no,118,asymptomatic,left ventricular hypertrophy,yes,1,flat,1,normal,1
+66,male,120,302,no,151,asymptomatic,left ventricular hypertrophy,no,0.4,flat,0,normal,0
+58,male,100,234,no,156,asymptomatic,normal,no,0.1,up sloping,1,reversible defect,1
+64,female,140,313,no,133,non-anginal,normal,no,0.2,up sloping,0,reversible defect,0
+50,female,120,244,no,162,atypical angina,normal,no,1.1,up sloping,0,normal,0
+44,female,108,141,no,175,non-anginal,normal,no,0.6,flat,0,normal,0
+67,male,120,237,no,71,asymptomatic,normal,no,1,flat,0,normal,1
+49,female,130,269,no,163,asymptomatic,normal,no,0,up sloping,0,normal,0
+57,male,165,289,yes,124,asymptomatic,left ventricular hypertrophy,no,1,flat,3,reversible defect,1
+63,male,130,254,no,147,asymptomatic,left ventricular hypertrophy,no,1.4,flat,1,reversible defect,1
+48,male,124,274,no,166,asymptomatic,left ventricular hypertrophy,no,0.5,flat,0,reversible defect,1
+51,male,100,222,no,143,non-anginal,normal,yes,1.2,flat,0,normal,0
+60,female,150,258,no,157,asymptomatic,left ventricular hypertrophy,no,2.6,flat,2,reversible defect,1
+59,male,140,177,no,162,asymptomatic,normal,yes,0,up sloping,1,reversible defect,1
+45,female,112,160,no,138,atypical angina,normal,no,0,flat,0,normal,0
+55,female,180,327,no,117,asymptomatic,ST-T wave,yes,3.4,flat,0,normal,1
+41,male,110,235,no,153,atypical angina,normal,no,0,up sloping,0,normal,0
+60,female,158,305,no,161,asymptomatic,left ventricular hypertrophy,no,0,up sloping,0,normal,1
+54,female,135,304,yes,170,non-anginal,normal,no,0,up sloping,0,normal,0
+42,male,120,295,no,162,atypical angina,normal,no,0,up sloping,0,normal,0
+49,female,134,271,no,162,atypical angina,normal,no,0,flat,0,normal,0
+46,male,120,249,no,144,asymptomatic,left ventricular hypertrophy,no,0.8,up sloping,0,reversible defect,1
+56,female,200,288,yes,133,asymptomatic,left ventricular hypertrophy,yes,4,down sloping,2,reversible defect,1
+66,female,150,226,no,114,typical angina,normal,no,2.6,down sloping,0,normal,0
+56,male,130,283,yes,103,asymptomatic,left ventricular hypertrophy,yes,1.6,down sloping,0,reversible defect,1
+49,male,120,188,no,139,non-anginal,normal,no,2,flat,3,reversible defect,1
+54,male,122,286,no,116,asymptomatic,left ventricular hypertrophy,yes,3.2,flat,2,normal,1
+57,male,152,274,no,88,asymptomatic,normal,yes,1.2,flat,1,reversible defect,1
+65,female,160,360,no,151,non-anginal,left ventricular hypertrophy,no,0.8,up sloping,0,normal,0
+54,male,125,273,no,152,non-anginal,left ventricular hypertrophy,no,0.5,down sloping,1,normal,0
+54,female,160,201,no,163,non-anginal,normal,no,0,up sloping,1,normal,0
+62,male,120,267,no,99,asymptomatic,normal,yes,1.8,flat,2,reversible defect,1
+52,female,136,196,no,169,non-anginal,left ventricular hypertrophy,no,0.1,flat,0,normal,0
+52,male,134,201,no,158,atypical angina,normal,no,0.8,up sloping,1,normal,0
+60,male,117,230,yes,160,asymptomatic,normal,yes,1.4,up sloping,2,reversible defect,1
+63,female,108,269,no,169,asymptomatic,normal,yes,1.8,flat,2,normal,1
+66,male,112,212,no,132,asymptomatic,left ventricular hypertrophy,yes,0.1,up sloping,1,normal,1
+42,male,140,226,no,178,asymptomatic,normal,no,0,up sloping,0,normal,0
+64,male,120,246,no,96,asymptomatic,left ventricular hypertrophy,yes,2.2,down sloping,1,normal,1
+54,male,150,232,no,165,non-anginal,left ventricular hypertrophy,no,1.6,up sloping,0,reversible defect,0
+46,female,142,177,no,160,non-anginal,left ventricular hypertrophy,yes,1.4,down sloping,0,normal,0
+67,female,152,277,no,172,non-anginal,normal,no,0,up sloping,1,normal,0
+56,male,125,249,yes,144,asymptomatic,left ventricular hypertrophy,yes,1.2,flat,1,normal,1
+34,female,118,210,no,192,atypical angina,normal,no,0.7,up sloping,0,normal,0
+57,male,132,207,no,168,asymptomatic,normal,yes,0,up sloping,0,reversible defect,0
+64,male,145,212,no,132,asymptomatic,left ventricular hypertrophy,no,2,flat,2,fixed,1
+59,male,138,271,no,182,asymptomatic,left ventricular hypertrophy,no,0,up sloping,0,normal,0
+50,male,140,233,no,163,non-anginal,normal,no,0.6,flat,1,reversible defect,1
+51,male,125,213,no,125,typical angina,left ventricular hypertrophy,yes,1.4,up sloping,1,normal,0
+54,male,192,283,no,195,atypical angina,left ventricular hypertrophy,no,0,up sloping,1,reversible defect,1
+53,male,123,282,no,95,asymptomatic,normal,yes,2,flat,2,reversible defect,1
+52,male,112,230,no,160,asymptomatic,normal,no,0,up sloping,1,normal,1
+40,male,110,167,no,114,asymptomatic,left ventricular hypertrophy,yes,2,flat,0,reversible defect,1
+58,male,132,224,no,173,non-anginal,left ventricular hypertrophy,no,3.2,up sloping,2,reversible defect,1
+41,female,112,268,no,172,non-anginal,left ventricular hypertrophy,yes,0,up sloping,0,normal,0
+41,male,112,250,no,179,non-anginal,normal,no,0,up sloping,0,normal,0
+50,female,120,219,no,158,non-anginal,normal,no,1.6,flat,0,normal,0
+54,female,108,267,no,167,non-anginal,left ventricular hypertrophy,no,0,up sloping,0,normal,0
+64,female,130,303,no,122,asymptomatic,normal,no,2,flat,2,normal,0
+51,female,130,256,no,149,non-anginal,left ventricular hypertrophy,no,0.5,up sloping,0,normal,0
+46,female,105,204,no,172,atypical angina,normal,no,0,up sloping,0,normal,0
+55,male,140,217,no,111,asymptomatic,normal,yes,5.6,down sloping,0,reversible defect,1
+45,male,128,308,no,170,atypical angina,left ventricular hypertrophy,no,0,up sloping,0,normal,0
+56,male,120,193,no,162,typical angina,left ventricular hypertrophy,no,1.9,flat,0,reversible defect,0
+66,female,178,228,yes,165,asymptomatic,normal,yes,1,flat,2,reversible defect,1
+38,male,120,231,no,182,typical angina,normal,yes,3.8,flat,0,reversible defect,1
+62,female,150,244,no,154,asymptomatic,normal,yes,1.4,flat,0,normal,1
+55,male,130,262,no,155,atypical angina,normal,no,0,up sloping,0,normal,0
+58,male,128,259,no,130,asymptomatic,left ventricular hypertrophy,yes,3,flat,2,reversible defect,1
+43,male,110,211,no,161,asymptomatic,normal,no,0,up sloping,0,reversible defect,0
+64,female,180,325,no,154,asymptomatic,normal,yes,0,up sloping,0,normal,0
+50,female,110,254,no,159,asymptomatic,left ventricular hypertrophy,no,0,up sloping,0,normal,0
+53,male,130,197,yes,152,non-anginal,left ventricular hypertrophy,no,1.2,down sloping,0,normal,0
+45,female,138,236,no,152,asymptomatic,left ventricular hypertrophy,yes,0.2,flat,0,normal,0
+65,male,138,282,yes,174,typical angina,left ventricular hypertrophy,no,1.4,flat,1,normal,1
+69,male,160,234,yes,131,typical angina,left ventricular hypertrophy,no,0.1,flat,1,normal,0
+69,male,140,254,no,146,non-anginal,left ventricular hypertrophy,no,2,flat,3,reversible defect,1
+67,male,100,299,no,125,asymptomatic,left ventricular hypertrophy,yes,0.9,flat,2,normal,1
+68,female,120,211,no,115,non-anginal,left ventricular hypertrophy,no,1.5,flat,0,normal,0
+34,male,118,182,no,174,typical angina,left ventricular hypertrophy,no,0,up sloping,0,normal,0
+62,female,138,294,yes,106,asymptomatic,normal,no,1.9,flat,3,normal,1
+51,male,140,298,no,122,asymptomatic,normal,yes,4.2,flat,3,reversible defect,1
+46,male,150,231,no,147,non-anginal,normal,no,3.6,flat,0,normal,1
+67,male,125,254,yes,163,asymptomatic,normal,no,0.2,flat,2,reversible defect,1
+50,male,129,196,no,163,non-anginal,normal,no,0,up sloping,0,normal,0
+42,male,120,240,yes,194,non-anginal,normal,no,0.8,down sloping,0,reversible defect,0
+56,female,134,409,no,150,asymptomatic,left ventricular hypertrophy,yes,1.9,flat,2,reversible defect,1
+41,male,110,172,no,158,asymptomatic,left ventricular hypertrophy,no,0,up sloping,0,reversible defect,1
+42,female,102,265,no,122,asymptomatic,left ventricular hypertrophy,no,0.6,flat,0,normal,0
+53,male,130,246,yes,173,non-anginal,left ventricular hypertrophy,no,0,up sloping,3,normal,0
+43,male,130,315,no,162,non-anginal,normal,no,1.9,up sloping,1,normal,0
+56,male,132,184,no,105,asymptomatic,left ventricular hypertrophy,yes,2.1,flat,1,fixed,1
+52,male,108,233,yes,147,asymptomatic,normal,no,0.1,up sloping,3,reversible defect,0
+62,female,140,394,no,157,asymptomatic,left ventricular hypertrophy,no,1.2,flat,0,normal,0
+70,male,160,269,no,112,non-anginal,normal,yes,2.9,flat,1,reversible defect,1
+54,male,140,239,no,160,asymptomatic,normal,no,1.2,up sloping,0,normal,0
+70,male,145,174,no,125,asymptomatic,normal,yes,2.6,down sloping,0,reversible defect,1
+54,male,108,309,no,156,atypical angina,normal,no,0,up sloping,0,reversible defect,0
+35,male,126,282,no,156,asymptomatic,left ventricular hypertrophy,yes,0,up sloping,0,reversible defect,1
+48,male,124,255,yes,175,non-anginal,normal,no,0,up sloping,2,normal,0
+55,female,135,250,no,161,atypical angina,left ventricular hypertrophy,no,1.4,flat,0,normal,0
+58,female,100,248,no,122,asymptomatic,left ventricular hypertrophy,no,1,flat,0,normal,0
+54,female,110,214,no,158,non-anginal,normal,no,1.6,flat,0,normal,0
+69,female,140,239,no,151,typical angina,normal,no,1.8,up sloping,2,normal,0
+77,male,125,304,no,162,asymptomatic,left ventricular hypertrophy,yes,0,up sloping,3,normal,1
+68,male,118,277,no,151,non-anginal,normal,no,1,up sloping,1,reversible defect,0
+58,male,125,300,no,171,asymptomatic,left ventricular hypertrophy,no,0,up sloping,2,reversible defect,1
+60,male,125,258,no,141,asymptomatic,left ventricular hypertrophy,yes,2.8,flat,1,reversible defect,1
+51,male,140,299,no,173,asymptomatic,normal,yes,1.6,up sloping,0,reversible defect,1
+55,male,160,289,no,145,asymptomatic,left ventricular hypertrophy,yes,0.8,flat,1,reversible defect,1
+52,male,152,298,yes,178,typical angina,normal,no,1.2,flat,0,reversible defect,0
+60,female,102,318,no,160,non-anginal,normal,no,0,up sloping,1,normal,0
+58,male,105,240,no,154,non-anginal,left ventricular hypertrophy,yes,0.6,flat,0,reversible defect,0
+64,male,125,309,no,131,non-anginal,normal,yes,1.8,flat,0,reversible defect,1
+37,male,130,250,no,187,non-anginal,normal,no,3.5,down sloping,0,normal,0
+59,male,170,288,no,159,typical angina,left ventricular hypertrophy,no,0.2,flat,0,reversible defect,1
+51,male,125,245,yes,166,non-anginal,left ventricular hypertrophy,no,2.4,flat,0,normal,0
+43,female,122,213,no,165,non-anginal,normal,no,0.2,flat,0,normal,0
+58,male,128,216,no,131,asymptomatic,left ventricular hypertrophy,yes,2.2,flat,3,reversible defect,1
+29,male,130,204,no,202,atypical angina,left ventricular hypertrophy,no,0,up sloping,0,normal,0
+41,female,130,204,no,172,atypical angina,left ventricular hypertrophy,no,1.4,up sloping,0,normal,0
+63,female,135,252,no,172,non-anginal,left ventricular hypertrophy,no,0,up sloping,0,normal,0
+51,male,94,227,no,154,non-anginal,normal,yes,0,up sloping,1,reversible defect,0
+54,male,120,258,no,147,non-anginal,left ventricular hypertrophy,no,0.4,flat,0,reversible defect,0
+44,male,120,220,no,170,atypical angina,normal,no,0,up sloping,0,normal,0
+54,male,110,239,no,126,asymptomatic,normal,yes,2.8,flat,1,reversible defect,1
+65,male,135,254,no,127,asymptomatic,left ventricular hypertrophy,no,2.8,flat,1,reversible defect,1
+57,male,150,168,no,174,non-anginal,normal,no,1.6,up sloping,0,normal,0
+63,male,130,330,yes,132,asymptomatic,left ventricular hypertrophy,yes,1.8,up sloping,3,reversible defect,1
+35,female,138,183,no,182,asymptomatic,normal,no,1.4,up sloping,0,normal,0
+41,male,135,203,no,132,atypical angina,normal,no,0,flat,0,fixed,0
+62,female,130,263,no,97,non-anginal,normal,no,1.2,flat,1,reversible defect,1
+43,female,132,341,yes,136,asymptomatic,left ventricular hypertrophy,yes,3,flat,0,reversible defect,1
+58,female,150,283,yes,162,typical angina,left ventricular hypertrophy,no,1,up sloping,0,normal,0
+52,male,118,186,no,190,typical angina,left ventricular hypertrophy,no,0,flat,0,fixed,0
+61,female,145,307,no,146,asymptomatic,left ventricular hypertrophy,yes,1,flat,0,reversible defect,1
+39,male,118,219,no,140,asymptomatic,normal,no,1.2,flat,0,reversible defect,1
+45,male,115,260,no,185,asymptomatic,left ventricular hypertrophy,no,0,up sloping,0,normal,0
+52,male,128,255,no,161,asymptomatic,normal,yes,0,up sloping,1,reversible defect,1
+62,male,130,231,no,146,non-anginal,normal,no,1.8,flat,3,reversible defect,0
+62,female,160,164,no,145,asymptomatic,left ventricular hypertrophy,no,6.2,down sloping,3,reversible defect,1
+53,female,138,234,no,160,asymptomatic,left ventricular hypertrophy,no,0,up sloping,0,normal,0
+43,male,120,177,no,120,asymptomatic,left ventricular hypertrophy,yes,2.5,flat,0,reversible defect,1
+47,male,138,257,no,156,non-anginal,left ventricular hypertrophy,no,0,up sloping,0,normal,0
+52,male,120,325,no,172,atypical angina,normal,no,0.2,up sloping,0,normal,0
+68,male,180,274,yes,150,non-anginal,left ventricular hypertrophy,yes,1.6,flat,0,reversible defect,1
+39,male,140,321,no,182,non-anginal,left ventricular hypertrophy,no,0,up sloping,0,normal,0
+53,female,130,264,no,143,asymptomatic,left ventricular hypertrophy,no,0.4,flat,0,normal,0
+62,female,140,268,no,160,asymptomatic,left ventricular hypertrophy,no,3.6,down sloping,2,normal,1
+51,female,140,308,no,142,non-anginal,left ventricular hypertrophy,no,1.5,up sloping,1,normal,0
+60,male,130,253,no,144,asymptomatic,normal,yes,1.4,up sloping,1,reversible defect,1
+65,male,110,248,no,158,asymptomatic,left ventricular hypertrophy,no,0.6,up sloping,2,fixed,1
+65,female,155,269,no,148,non-anginal,normal,no,0.8,up sloping,0,normal,0
+60,male,140,185,no,155,non-anginal,left ventricular hypertrophy,no,3,flat,0,normal,1
+60,male,145,282,no,142,asymptomatic,left ventricular hypertrophy,yes,2.8,flat,2,reversible defect,1
+54,male,120,188,no,113,asymptomatic,normal,no,1.4,flat,1,reversible defect,1
+44,male,130,219,no,188,atypical angina,left ventricular hypertrophy,no,0,up sloping,0,normal,0
+44,male,112,290,no,153,asymptomatic,left ventricular hypertrophy,no,0,up sloping,1,normal,1
+51,male,110,175,no,123,non-anginal,normal,no,0.6,up sloping,0,normal,0
+59,male,150,212,yes,157,non-anginal,normal,no,1.6,up sloping,0,normal,0
+71,female,160,302,no,162,atypical angina,normal,no,0.4,up sloping,2,normal,0
+61,male,150,243,yes,137,non-anginal,normal,yes,1,flat,0,normal,0
+55,male,132,353,no,132,asymptomatic,normal,yes,1.2,flat,1,reversible defect,1
+64,male,140,335,no,158,non-anginal,normal,no,0,up sloping,0,normal,1
+43,male,150,247,no,171,asymptomatic,normal,no,1.5,up sloping,0,normal,0
+58,female,120,340,no,172,non-anginal,normal,no,0,up sloping,0,normal,0
+60,male,130,206,no,132,asymptomatic,left ventricular hypertrophy,yes,2.4,flat,2,reversible defect,1
+58,male,120,284,no,160,atypical angina,left ventricular hypertrophy,no,1.8,flat,0,normal,1
+49,male,130,266,no,171,atypical angina,normal,no,0.6,up sloping,0,normal,0
+48,male,110,229,no,168,atypical angina,normal,no,1,down sloping,0,reversible defect,1
+52,male,172,199,yes,162,non-anginal,normal,no,0.5,up sloping,0,reversible defect,0
+44,male,120,263,no,173,atypical angina,normal,no,0,up sloping,0,reversible defect,0
+56,female,140,294,no,153,atypical angina,left ventricular hypertrophy,no,1.3,flat,0,normal,0
+57,male,140,192,no,148,asymptomatic,normal,no,0.4,flat,0,fixed,0
+67,female,160,286,no,108,asymptomatic,left ventricular hypertrophy,yes,1.5,flat,3,normal,1
+45,male,112,290,no,153,asymptomatic,left ventricular hypertrophy,no,0,up sloping,1,normal,1
+67,female,110,175,no,123,non-anginal,normal,no,0.6,up sloping,0,normal,0
+60,male,150,212,yes,157,non-anginal,normal,no,1.6,up sloping,0,normal,0
+73,female,160,302,no,162,atypical angina,normal,no,0.4,up sloping,2,normal,0
+63,male,150,243,yes,137,non-anginal,normal,yes,1,flat,0,normal,0
+58,female,133,353,no,132,asymptomatic,normal,yes,1.2,flat,1,reversible defect,1
+68,male,142,335,no,158,non-anginal,normal,no,0,up sloping,0,normal,1
+45,female,150,247,no,171,asymptomatic,normal,no,1.5,up sloping,0,normal,0
+59,female,122,340,no,172,non-anginal,normal,no,0,up sloping,0,normal,0
+72,male,130,322,no,109,asymptomatic,left ventricular hypertrophy,no,2.4,flat,3,normal,1
+68,female,115,564,no,160,non-anginal,left ventricular hypertrophy,no,1.6,flat,0,reversible defect,0
+57,male,124,261,no,141,atypical angina,normal,no,0.3,up sloping,0,reversible defect,1
+65,male,128,263,no,105,asymptomatic,normal,yes,0.2,flat,1,reversible defect,0
+78,female,120,269,no,121,atypical angina,left ventricular hypertrophy,yes,0.2,up sloping,1,normal,0
+68,male,120,177,no,140,asymptomatic,normal,no,0.4,up sloping,0,reversible defect,0
+57,male,130,256,yes,142,non-anginal,left ventricular hypertrophy,yes,0.6,flat,1,fixed,1
+60,male,110,239,no,142,asymptomatic,left ventricular hypertrophy,yes,1.2,flat,1,reversible defect,1
+61,male,140,293,no,170,asymptomatic,left ventricular hypertrophy,no,1.2,flat,2,reversible defect,1
+63,female,150,407,no,154,asymptomatic,left ventricular hypertrophy,no,4,flat,3,reversible defect,1
+57,male,135,234,no,161,asymptomatic,normal,no,0.5,flat,0,reversible defect,0
+56,male,142,226,no,111,asymptomatic,left ventricular hypertrophy,yes,0,up sloping,0,reversible defect,0
+47,female,140,235,no,180,non-anginal,left ventricular hypertrophy,no,0,up sloping,0,normal,0
+62,male,134,234,no,145,typical angina,normal,no,2.6,flat,2,normal,1
+62,female,140,185,no,155,non-anginal,left ventricular hypertrophy,no,3,flat,0,normal,1
+62,male,145,282,no,142,asymptomatic,left ventricular hypertrophy,yes,2.8,flat,2,reversible defect,1
+55,female,120,188,no,113,asymptomatic,normal,no,1.4,flat,1,reversible defect,1
+46,female,130,219,no,188,atypical angina,left ventricular hypertrophy,no,0,up sloping,0,normal,0
+45,male,112,290,no,153,asymptomatic,left ventricular hypertrophy,no,0,up sloping,1,normal,1
+52,female,110,175,no,123,non-anginal,normal,no,0.6,up sloping,0,normal,0
