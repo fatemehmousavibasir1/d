@@ -1,14 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[29]:
-
-
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[10]:
-
 
 import pandas as pd
 import numpy as np
@@ -90,8 +79,6 @@ plt.ylabel('True Positive Rate')
 plt.xlabel('False Positive Rate')
 plt.show()
 
-
-# In[ ]:
 
 
 
